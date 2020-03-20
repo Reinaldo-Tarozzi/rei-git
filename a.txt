@@ -1,4 +1,61 @@
+﻿# Pega estes Valores Aleatorios e Constroe um Grafo Commits:( Rede Neural ).
+# Com Angulo de 90°
 
-Teste_A
-esta linha foi modificada no ramo master
-Esta linha foi modificada no ramo teste
+# Matilab.
+
+# Python.
+
+Gaussian:
+----------
+
+---------------------------------------------------------------------------------
+
+log ({[aba^2*^^3]})
+
+log {[(bab^3*^^)]}
+
+vetor matrix_a
+vetor matrix_b
+
+a = Learning rate [0.1] = { B00001100,
+                            B00010010,
+                            B00010010,
+                            B00001100,
+                            B00000000,
+                            B00000000,
+                            B00000000,
+                            B00000000, };
+
+
+b = Activation linear [1.1] = { B01100110,
+                                B11001111,
+                                B10001111,
+                                B11000111,
+                                B10010111,
+                                B10011011,
+                                B10110011,
+                                B10011011, };
+
+regularization_None  UB [None] = { B11010111,
+                                   B11100111,
+                                   B10101101,
+                                   B01010100,
+                                   B01010100,
+                                   B00111000,
+                                   B01010100,
+                                   B00100110, };
+
+Regularization_rate  RT[0.1] = { B10011010,
+                               B10110011,
+                               B10010111,
+                               B10110011,
+                               B11010011,
+                               B10110011,
+                               B11010101,
+                               B10101011, 
+LinearSVC( C = 1.0, class_weight = None, dual = True, fit_intercept = True,
+          intercept_scaling = 1, loss = 'squared_hinge', max_iter = 1000,
+          multi_class = 'ovr', penalty = 'l2' ,random_state = None, tol = 0.0001,
+          verbose = 0 ), Classification      };
+
+#--------------------------------------------------------------------------------
