@@ -1,503 +1,54 @@
-Teste_B
+﻿Teste_B
 
-ls -a
-cd .git
-ls -a
-cd ..
-ls
-ls -a
-git status
-git add c_test.txt
-ls
-ls -a
-git status
-git status
-git commit -m "Criando o 1o. Arquivo"
-ls
-git log
-touch a.txt
+
 git status
 git add .
-ls
-git status
-git commit -m "Os Outros Arquivos"
-ls
-git status
-ls
-git status
-git status
 git add *
-clera
+git commit -m "Arquivo_Enviado_3"
+git puch -u origen master
+ls
+ls -a
+touch a.txt
+touch teste/exemplo1
 clear
-ls
-git status
-git commit -m "Modificados e OKs"
-ls
-git status
-cd ..
-ls
-cd AI
-ls
-type a.txt
-type a
-git type a.txt
+pwd
+q
 git grep a.txt
 git --help
-ls -a
-cd AI
-cd AI
-mkdir AI
-cd ..
-ls
-cd Rei
-ls
-cd ..
-cd ..
-ls
-cd AI
-ls
-type a.txt
-grep a.txt
+mkdir asa
 git log
-git log
-ls
 git config --global user.name"Reinaldo-Tarozzi
-git log
-clear
-git log
-git config --global user.name"Reinaldo-Tarozzi"
-git log
-git config --global user.name"Rei@PC"
-git config --global user.name"Reinaldo-Tarozzi"
-git log
-git commit -m "OK"
-git log
-ls
-ls
+git config --global user.name"qualquer nome"
+git congig --global user.email "tarozzi@bol.com.br"
+git config --global user.email "tarozzi.rc@gmail.com"
 git log
 git log --oneline
-cat a.txt
-cd AI
-cd ..
-cd ..
-ls
-cd Rei
-ls
-cd /AI
-mkdir AI
-cd AI
-ls
-ls -a
-ls
-cd AI
-cd ..
-ls
-cd AI
 cat a.txt
 cat b.txt
 git log --sumary filter = d --summary
-ls -a
-cd .
-cd ..
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-cd MINGW32
-ls
-cd ..
-ls
-cd usr
-ls
-cd
-ls
-cd dowloads
-ls
-ls -a
-cd
-cd Rei
-ls -
-ls -a
-cd .git/
-ls
-cat a.txt
-clear
 cd *.txt
 ls *.txt
-cd/
-cd 
-cd /
-ls
-cd
-clear
-git config --global.name "reinaldo-Tarozzi"
-git config --global.name "Reinaldo-Tarozzi"
-git config --global.name"Reinaldo-Tarozzi"
-git config --global.name "Reinaldo-Tarozzi"
-git config --global.name "Rei@PC"
-git config --global user.nane "Rei@PC"
-log
-git log
-git congig --global user.email "tarozzi.rc@gmail.com"
-git config --global user.email "tarozzi.rc@gmail.com"
-log
-git log
-pwd
-ls
-ls
-clear
-ls
-cd music
-ls
 git checkout
-clear
-ls
-cd AI
-ls
-git log
-ls -a
-cd .
-ls
-cd AI
-ls
-add a.txt
-git add a.txt
-git commit -m"Ai_1"
-ls
-git puch -u origen master
-ls
-git log
-ls -a
-cd .git
-ls
-cd ..
-ls
-git add *
-ls
-init
-git init
-git add .
 git push ogigen master
-ls
 git add .
-git commit -m "Arquivos_1"
-ls
-git push origen master
-git log
-exit
-ls
-cd AI
-ls
-ls
-git add .
-git commit -m "arquivos1"
-ls
-git log
-git push origen master
-git push -u origen master
+git add *
 git init
-git status
-git add .
-git commit -m "Criando o 2o. Arquivo"
-git version
-git config --global user.name "tarozzi"
-git config --global user.email "tarozzi.rc@gmail.com"
-clear
+exit
 git config user.name
 git config user.email
 git config core.editor
-clear pwd
-clear
-pwd
-ls
-cd AI
-pwd
-ls
-cd c/
-ls
-cd AI
-cd /AI
-cd c/
-cd ..
-cd ..
-ls
-pwd
-cd ..
-ls
-cd AI
-ls
 mkdir teste
-ls
-touch teste/exemplo1
-ls
-cd test
-ls
-cd /test
-cd teste
-ls
-ls
-cd ..
-ls
-cd AI
-cd /AI
-pwd
-ls
-ls -a
-cd /.git
-cd .git
-ls
-ls -a
-cd AI
-cd ..
-ls -a
-git status
-git add .
-ls
-git status
-git commit -m "criado o  arquivo exemplo1.txt"
-ls
-git status
-ls
-cd /teste
-cd teste
-ls
-cat exemplo1.txt
-ls
-cd ..
-cd ..
-ls
-cd AI
-ls
-ls -a
-cd .git
-ls
-cd ..
-ls
-cd teste
-ls
-ls
-git status
-git add *
-ls
-git commit -m "criado o  arquivo modificado 1o. vez"
-ls
-cat exemplo1.txt
-cd teste
-cd teste
-cd /teste
-ls
-git cat exemplo1.txt
 tag exemplo1.txt
-cat exemplo1.txt
-ls
-git push
 git push exemplo1.txt
 git push --set --upstream exemplo1.txt master
-git push -u origen master
-ls
-git status
-git vrsion
-git version
-clear
-git log
 git clone https://github.com/Reinaldo-Tarozzi/AI.git
-dir
-git config --global user.email"tarozzi.rc@gmail.com"
-git config --global user.name"tarozzi"
-ls
-git add.
-add .
-git add .
-git status
-clear
-git status
 git clone https://github.com/Reinaldo-Tarozzi/programas_arquivos.git
 git config --global user.name "Tarozzi"
-git config --global user.email "tarozzi@bol.com.br"
-touch a.txt
-ls
-ls -a
-git add a.txt
-git status
 clear --help
-clear
 clear[opcoes]
-git status
-git status
-git add .
-git status
-ls
-cd teste
-ls
-ls -a
-cd ..
-ls -a
-git add .
-git status
-ls
-git add a.txt
-git status
-git status
-ls
-touche notas.txt
-git add *
-git status
-touch note.txt
-ls
-git commit -m "arquivo notas enviado"
-ls
-git push origen master
-ls
-git -u push origen master
-git push origen master
-git status
-git commit -m "arquivo note enviado"
-git status
-git push origen master
-git add note.txt
-git status
-git commit -m "arquivo notas enviado"
-git push origen master
-git version
-git config --global user.name "Tarozzi"
-git config --global user.email "tarozzi@bol.com.br"
-clear
-git config --global user.name
-git config --global user.email
-pwd
-cd ..
-pwd
-pwd
-cd ..
-cd ..
-cd ..
-cd ..
-pwd
-ls
-ls
-ls -a
-git status
-code
-ls
-git status
-ls
-ls
-cd c
-cd /c
-ls
-ls
-pwd
-ls
-cd /AI
-ls
-cd AI
-ls
-cd..
-cd..
-cd ..
-cd ..
-cd ..
-cd ..
-ls
-clear
-mkdir teste
-ls
-cd /teste
-ls
-cd /AI
-cd AI
-cd ..
-cd /AI
-cd ..
-cd ..
-cd AI
-ls
-cd /AI
-cd ..
-cd /c
-ls
-cd AI
-ls
-ls
-mkdir teste
-ls
-ls
-clear
-ls
-touch exemplo1.txt
-ls
-touch teste/exemplo2.txt
-ls
-cd teste
-ls
-clear
-pwd
-ls
-ls
-git init
-ls
-ls -a
-git status
-touch a.txt b.txt
-ls
-ls
-ls
-pwd
-git status
-ls
-ls -a
-ls
-git init
-ls
-clear
-ls -a
-clear
-git status
-touch a.txt b.txt
-git status
-clear
-git add *
-git status
-clear
-git commit -m "criado os arquivos a.txt b.txt"
-git status
-ls
-clear
-git log
-code
-ls
-cat a.txt
-cat b.txt
-clear
-git status
-git add *
-git status
-clear
-git commit -m "modificado os arquivos a.txt e b.txt"
-dit status
-git status
-clear
-git log
-git log --online
-clear
-git log --online
-git log --oneline
-clear
-git log --oneline
-clear
-git log --graph
-clear
-git log --oneline --graph
 code .
-clear
-git status
-git commit -am "a.txt adicionei a linha Entendendo o HeAD"
-clear git status
-git status
-clear
+git log --oneline
 git log --graph
+git log --oneline --graph
+
 EOF
