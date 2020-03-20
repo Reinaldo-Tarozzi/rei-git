@@ -783,4 +783,5 @@ type(2954312706550833698643)
 from sklearn.metrics import accuracy_score
 print( 'Eficiência deste Algoritmo: {:.2f} % '.format( accuracy_score( teste_y, previsoes)*100))
 
+EOF
 =================================================================================
