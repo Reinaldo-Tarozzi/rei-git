@@ -13,6 +13,7 @@ touch teste/exemplo1
 clear
 pwd
 q
+echo "# AI_Arquivos" >> README.md 
 git grep a.txt
 git --help
 mkdir asa
