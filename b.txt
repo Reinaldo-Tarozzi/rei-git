@@ -52,4 +52,21 @@ git log --oneline
 git log --graph
 git log --oneline --graph
 
+readme.md markdown linquagem de marcação
+git fetch    #   download repositorio remoto
+git reset --hard d302bad   # remove commit
+git checkout -b teste   # criar ramo de commit
+git clean --opecoes - f ou --force
+git clean -f -d -n
+git rm
+git diff bac83d8
+git log --diff --filter=dsummary
+control l   # limpa a tela
+ls -l
+git merge versao-interativa
+git log --decorate --oneline
+git reset head^^   # volta 2 passos
+git rm --cached
+git ignore
+
 EOF
