@@ -1,0 +1,86 @@
+
+Data Science:
+
+import pandas as pd
+
+uri = "https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula4.1/movies.csv"
+filmes = pd.read_csv(uri)  # Dataframe
+filmes.head()
+
+----------------------
+
+filmes.columns = ["Filmes", "Titulo", "Genero"]
+filmes.head()
+
+----------------------
+
+uri = "https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula2.1/ratings.csv"
+notas = pd.read_csv(uri)
+notas.head()
+
+----------------------
+
+uri = "https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula2.1/ratings.csv"
+notas = pd.read_csv(uri)
+notas.head()
+
+----------------------
+
+notas["Nota"].head()  # Serie
+
+----------------------
+
+notas["Nota"].unique()
+
+----------------------
+
+notas["Nota"].mean()
+
+----------------------
+
+notas["Nota"].min()
+
+----------------------
+
+notas.describe()  # median = 50% para esquerda 50% para direita = 3.5
+
+----------------------
+
+notas.Nota.plot(kind='hist')
+
+----------------------
+
+import seaborn as sns
+
+sns.boxplot(notas.Nota)
+
+---------------------- FINE ---------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
